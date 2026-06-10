@@ -1,0 +1,14 @@
+2026-06-10 11:50:56 | INFO | New chat session started.
+2026-06-10 11:50:56 | INFO | Gemini client initialized — model: gemini-1.5-flash
+2026-06-10 11:50:56 | INFO | GeminiChatClient initialized in session state.
+2026-06-10 11:53:16 | INFO | User message (turn 1): I want to invest in stock market,how is the process...
+2026-06-10 11:53:42 | WARNING | Rate limit hit: 404 models/gemini-1.5-flash is not found for API version v1beta, or is not supported for generateContent. Call ModelService.ListModels to see the list of available models and their supported methods.
+2026-06-10 11:53:42 | WARNING | Failed response returned to user: rate_limit
+2026-06-10 12:11:16 | INFO | New chat session started.
+2026-06-10 12:11:16 | INFO | Gemini client initialized — model: gemini-2.5-flash
+2026-06-10 12:11:16 | INFO | GeminiChatClient initialized in session state.
+2026-06-10 12:11:57 | INFO | User message (turn 1): I want to invest in stock market,how is the process...
+2026-06-10 12:12:04 | INFO | Response received | tokens: 431in/364out | latency: 6903.1ms
+2026-06-10 12:26:42 | INFO | New chat session started.
+2026-06-10 12:26:42 | INFO | Gemini client initialized — model: gemini-2.5-flash
+2026-06-10 12:26:42 | INFO | GeminiChatClient initialized in session state.
